@@ -23,5 +23,3 @@ This project is a lightweight, neural-network-based terminal assistant and chatb
 The Backstory
 
 Before transferring to my current school, the most important thing on my mind was my first love, whom I had been infatuated with since the 8th grade. We were on good terms, but I had never confessed my feelings (my biggest mistake, and by the time I finally did, it was already too late).Around that time, there was a school hackathon, followed by a presentation to an Erasmus group that she was also a part of. Driven by that motivation, I locked in on the final day of the hackathon and wrote Jarvis from scratch during a non-stop, 6-hour coding session.Weeks later, I finally opened up to her, only to face rejection. As primitive as this project may seem technically, it holds an incredibly special place in my heart. It is the monument of my hopes from that time.
-
-My recommendation to anyone reading this: If you love someone, say it to them **NOW**. Don't wait for the perfect code or the perfect moment. Time doesn't wait.
